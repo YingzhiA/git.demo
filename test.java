@@ -1,8 +1,7 @@
 public class test {
     public static void main(String[] args) {
-        int a = 10;
-        int b = 0;
-        System.out.println(a/b);
-        System.out.println(c/d);
+        for(int i=0; i<100; i++){
+            System.out.println(i+1);
+        }
     }
 }
