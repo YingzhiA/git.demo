@@ -4,5 +4,6 @@ public class test {
         int b = 0;
         System.out.println(a/b);
         int c;
+        int d;
     }
 }
