@@ -5,5 +5,6 @@ public class test {
         System.out.println(a/b);
         int c;
         int d;
+        System.out.println(c/d);
     }
 }
